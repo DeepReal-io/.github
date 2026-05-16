@@ -1,5 +1,5 @@
 # Who We Are
-DeepReal Inc. is a dynamic technology powerhouse delivering innovative software, data platforms, embedded systems, and infrastructure solutions.
+DeepReal IO. is a dynamic technology powerhouse delivering innovative software, data platforms, embedded systems, and infrastructure solutions.
 
 We transform businesses and communities by combining cutting-edge technologies with AI-powered intelligence to create practical, scalable, and impactful solutions.
 

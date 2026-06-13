@@ -23,7 +23,7 @@ Unifies financials, HR, and supply chain management for hospitals and manufactur
 
 Explore Solution
 
-### FinTech — InfiniteBooks
+### FinTech — DrioBooks
 Smart Accounting Software
 
 Intelligent cloud-based accounting platform that automates bookkeeping and generates financial reports.
@@ -51,7 +51,7 @@ A customized version of Microsoft Dynamics 365 Business Central, optimized for s
 
 Explore Solution
 
-### FinTech — LendBooks
+### FinTech — DrioLend
 Loan Management System
 
 Complete loan lifecycle solution for SACCOs and MFIs, from underwriting to automated repayment tracking.
@@ -65,7 +65,7 @@ Complete loan lifecycle solution for SACCOs and MFIs, from underwriting to autom
 
 Explore Solution
 
-### FinTech — LendScore
+### FinTech — DrioScore
 AI Credit Scoring Engine
 
 Advanced assessment platform using alternative data to evaluate creditworthiness in emerging markets.
@@ -79,7 +79,7 @@ Advanced assessment platform using alternative data to evaluate creditworthiness
 
 Explore Solution
 
-### FinTech — FlotFlow
+### FinTech — DrioFloat
 Float Management System
 
 Comprehensive cash flow and float management platform automating reconciliation and intelligent forecasting.
@@ -93,7 +93,7 @@ Comprehensive cash flow and float management platform automating reconciliation 
 
 Explore Solution
 
-### Intelligence — CustomerDesk
+### Intelligence — DrioDesk
 Intelligent CRM Platform
 
 Comprehensive CRM capturing leads across channels, powered by AI agents for automated support.
@@ -107,7 +107,7 @@ Comprehensive CRM capturing leads across channels, powered by AI agents for auto
 
 Explore Solution
 
-### Healthcare — DrHenri
+### Healthcare — DrioHealth
 Early Chronic Disease Discovery
 
 Wearable-integrated AI that monitors patient vitals to detect early warning signs of chronic illness.
@@ -121,7 +121,7 @@ Wearable-integrated AI that monitors patient vitals to detect early warning sign
 
 Explore Solution
 
-### AgriTech — Covet
+### AgriTech — DrioVet
 AI-Based Livestock Health Tracker
 
 An IoT-enabled monitoring system tracking herd health in real-time to predict disease outbreaks.
@@ -135,7 +135,7 @@ An IoT-enabled monitoring system tracking herd health in real-time to predict di
 
 Explore Solution
 
-### AgriTech — Soilify
+### AgriTech — DrioFarm
 AI-Powered Soil Management
 
 Precision agriculture platform optimizing fertilizer usage via soil sensors and weather-based AI.
@@ -149,7 +149,7 @@ Precision agriculture platform optimizing fertilizer usage via soil sensors and 
 
 Explore Solution
 
-### FinTech — xySeries
+### FinTech — DrioMarkets
 Forex & Crypto Market Analyzer
 
 AI-powered trading intelligence platform providing predictive insights and real-time market risk assessments.
@@ -162,21 +162,6 @@ AI-powered trading intelligence platform providing predictive insights and real-
 - Predictive ML
 
 Explore Solution
-
-### Intelligence — Spider
-Sentiment Collector & Analyzer
-
-Omnichannel feedback intelligence capturing customer sentiment using advanced NLP across touchpoints.
-
-- NLP Analysis
-- Real-time Dashboards
-- Trend Alerts
-- BERT / NLP
-- Stream Processing
-- React Dash
-
-Explore Solution
-
 ---
 
 DeepReal.io Technologies Limited

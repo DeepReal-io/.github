@@ -9,7 +9,7 @@ Below are sample solutions and offerings across multiple industries — not an e
 
 ## Complete Solution Catalog
 
-### Enterprise — InfiniteERP
+### Enterprise — DrioERP
 Fully Integrated ERP System
 
 Unifies financials, HR, and supply chain management for hospitals and manufacturing enterprises.
